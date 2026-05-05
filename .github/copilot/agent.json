@@ -1,0 +1,10 @@
+{
+  "agent": {
+    "mcp_servers": [
+      {
+        "name": "github-internal",
+        "toolsets": ["repos", "pull_requests", "issues"]
+      }
+    ]
+  }
+}
